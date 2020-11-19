@@ -4,7 +4,7 @@
   Happy
 </h1>
 
-#### Essa é a parte do Backend do projeto, para ter acceso a parte web e mobile, siga os links:
+Essa é a parte do Backend do projeto, para ter acceso a parte web e mobile, siga os links:
 
 ## :globe_with_meridians: [WEB](https://github.com/douglaswmartins/Happy-Web)
 
@@ -22,7 +22,7 @@
 
 ## :computer: Projeto
 
-#### Aplicação desenvolvida durante o workshop Next Level Week 3 da [rocketseat](https://rocketseat.com.br/), onde o objetivo da aplicação é conectar pessoas e casas de acolhimento.
+Aplicação desenvolvida durante o workshop Next Level Week 3 da [rocketseat](https://rocketseat.com.br/), onde o objetivo da aplicação é conectar pessoas e casas de acolhimento.
 
 ---
 
